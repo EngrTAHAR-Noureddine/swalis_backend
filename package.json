@@ -1,0 +1,22 @@
+{
+  "name": "swalis",
+  "version": "1.0.0",
+  "description": "swalis backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngrTAHAR-Noureddine/swalis_backend.git"
+  },
+  "author": "TAHAR Noureddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngrTAHAR-Noureddine/swalis_backend/issues"
+  },
+  "homepage": "https://github.com/EngrTAHAR-Noureddine/swalis_backend#readme",
+  "dependencies": {
+    "node": "^17.7.1"
+  }
+}
